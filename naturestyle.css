@@ -1,0 +1,32 @@
+body {
+    background-color: powderblue;
+    font-family: Raleway;
+    text-align: center;
+  }
+  h1{
+    color: teal;
+  }
+  p{
+    color: #354714;
+    font-size: 18px;
+  }
+  .class-one {
+     color: white;
+     background-color: teal;
+     padding: 5px;
+     border: 3px dashed #f5c951;
+  }
+  .box {
+    width: 50%;
+    margin: auto;
+    padding: 20px;
+    border: 1px white;
+  }
+  
+  #yellow{
+    background-color: #f5c951;
+  }
+  
+  #pink{
+    background-color: #e87d88;
+  }
